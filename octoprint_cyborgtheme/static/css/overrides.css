@@ -135,11 +135,17 @@ table td.settings_plugin_announcements_channels_actions a.disabled, table th.set
     min-width: 960px;
 }
 /*fix navbar text being too spaced out*/
-
-.navbar .nav .navbar-text {
-	padding: 10px 5px 0 0;
-	font-size: 12px;
-    margin: 0 0 0 0;
+.navbar .nav {
+	font-size: 13px;
+    position: relative;
+    left: 0;
+    display: block;
+    float: left;
+    margin: 0 10px 0 0;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 0px;
 }
 /*obvious general stuff, fonts, font sizes*/
 body {
