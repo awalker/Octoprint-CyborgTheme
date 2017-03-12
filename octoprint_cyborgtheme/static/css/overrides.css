@@ -147,6 +147,9 @@ table td.settings_plugin_announcements_channels_actions a.disabled, table th.set
     margin-bottom: 0px;
     margin-left: 0px;
 }
+.navbar .navbar-text {
+    padding: 15px 0px 0px;
+}
 /*obvious general stuff, fonts, font sizes*/
 body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
